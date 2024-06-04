@@ -1,0 +1,6 @@
+version 1.0
+
+videocard setup=standart;
+wifi setup=windows.standart;
+
+https://www.youtube.com/watch?v=QdezFxHfatw
